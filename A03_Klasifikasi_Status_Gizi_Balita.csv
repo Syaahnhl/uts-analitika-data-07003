@@ -1,0 +1,501 @@
+﻿Usia_balita_bulan,Jenis_Kelamin,Berat_Badan_kg,Tinggi_Badan_cm,Frekuensi_Makan_hari,Konsumsi_Protein_hari,Konsumsi_Sayur_Buah_hari,ASI_Eksklusif,Riwayat_Infeksi_3_bulan,Imunisasi_Dasar,Berat_Lahir_kg,Pendidikan_Ibu,Sanitasi_Rumah,Akses_Air_Bersih,Status_Gizi
+47.0,Laki-laki,15.9,66.8,5.0,Rendah,Jarang,Ya,Tidak Ada,Lengkap,3.48,SMP,Layak,Memadai,Gizi Normal
+50.0,Perempuan,9.5,69.7,,,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.23,SD,Layak,Memadai,Gizi Tidak Normal
+37.0,Laki-laki,8.6,54.8,,Cukup,2 Kali atau lebih,Ya,Ada,Lengkap,2.86,SMP,Layak,Memadai,Gizi Normal
+36.0,Perempuan,16.0,71.3,2.0,Cukup,2 Kali atau lebih,Ya,Ada,Lengkap,,SMA,Layak,Memadai,Gizi Normal
+52.0,Perempuan,7.2,61.7,3.0,Cukup,Jarang,Ya,Ada,Lengkap,3.62,SMA,Tidak Layak,Memadai,Gizi Normal
+35.0,Perempuan,12.7,59.3,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.76,SMP,Layak,Memadai,Gizi Normal
+26.0,Perempuan,8.0,81.3,4.0,Cukup,1 Kali,Ya,Ada,Lengkap,2.62,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+8.0,Laki-laki,12.6,47.8,2.0,Rendah,1 Kali,Ya,Tidak Ada,,3.14,SMA,Layak,Memadai,Gizi Normal
+58.0,Laki-laki,12.2,50.2,4.0,Cukup,Jarang,Ya,Ada,Lengkap,3.0,,Layak,Memadai,Gizi Normal
+29.0,Laki-laki,13.4,74.8,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,1.66,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+13.0,Perempuan,13.1,66.1,4.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,2.23,SD,Layak,Memadai,Gizi Normal
+50.0,Perempuan,13.1,60.6,3.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.91,SMP,Layak,Memadai,Gizi Tidak Normal
+28.0,Laki-laki,12.1,64.9,3.0,Cukup,2 Kali atau lebih,Tidak,Ada,,2.54,SMA,Layak,Memadai,Gizi Normal
+42.0,Laki-laki,8.3,59.4,5.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.09,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+56.0,Perempuan,15.9,51.2,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.29,SMP,Layak,Memadai,Gizi Normal
+41.0,Perempuan,9.2,82.7,5.0,Rendah,1 Kali,Tidak,Ada,Lengkap,3.7,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+40.0,Laki-laki,5.9,62.0,3.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.49,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+14.0,Perempuan,4.3,61.7,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.13,SMP,Layak,Memadai,Gizi Tidak Normal
+32.0,Laki-laki,16.7,80.0,4.0,Rendah,1 Kali,Ya,Ada,Tidak Lengkap,2.28,SMP,Layak,Memadai,Gizi Normal
+26.0,Perempuan,12.5,69.9,4.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.83,SMA,Layak,,Gizi Normal
+48.0,Laki-laki,15.8,49.9,3.0,Cukup,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,3.57,SD,Tidak Layak,Memadai,Gizi Normal
+34.0,Laki-laki,12.4,50.7,3.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.98,SD,Tidak Layak,Memadai,Gizi Normal
+28.0,Laki-laki,13.2,72.4,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.45,,Layak,Memadai,Gizi Normal
+29.0,Perempuan,9.0,76.6,3.0,Cukup,Jarang,Tidak Berlaku,Ada,Lengkap,3.52,,Layak,Memadai,Gizi Normal
+26.0,Perempuan,15.4,49.6,5.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Tidak Lengkap,2.98,SMP,Tidak Layak,Memadai,Gizi Normal
+38.0,Perempuan,14.9,62.5,5.0,Cukup,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,3.11,SD,Tidak Layak,Memadai,Gizi Normal
+47.0,Perempuan,19.6,66.5,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.63,SD,Layak,Memadai,Gizi Normal
+15.0,Perempuan,9.3,53.1,4.0,Cukup,2 Kali atau lebih,Tidak,,Lengkap,3.2,SD,Tidak Layak,Memadai,Gizi Normal
+24.0,Laki-laki,8.9,82.0,4.0,Rendah,1 Kali,Ya,Ada,Lengkap,3.02,SD,Layak,Memadai,Gizi Tidak Normal
+14.0,Laki-laki,14.4,73.9,4.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,2.63,,Layak,Memadai,Gizi Normal
+56.0,Laki-laki,7.5,52.4,3.0,Cukup,,Ya,Tidak Ada,Lengkap,3.16,SMA,Layak,Memadai,Gizi Tidak Normal
+21.0,Laki-laki,8.0,80.1,3.0,Tinggi,1 Kali,Tidak,Ada,Lengkap,2.83,SMA,Layak,Memadai,Gizi Normal
+21.0,Laki-laki,6.3,55.5,3.0,Tinggi,Jarang,Tidak Berlaku,Ada,Tidak Lengkap,3.87,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+14.0,Laki-laki,5.5,70.1,5.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,2.85,SMA,Layak,Memadai,Gizi Tidak Normal
+,Laki-laki,13.7,66.5,5.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,2.48,SD,Tidak Layak,Memadai,Gizi Normal
+10.0,Laki-laki,16.6,66.8,4.0,Rendah,1 Kali,Tidak,Ada,Lengkap,2.51,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+28.0,Laki-laki,7.7,75.4,3.0,Rendah,1 Kali,Tidak Berlaku,Ada,Lengkap,2.59,Perguruan Tinggi,,Memadai,Gizi Tidak Normal
+51.0,Laki-laki,6.1,72.5,4.0,Cukup,1 Kali,Tidak,Ada,Lengkap,3.24,SMA,Tidak Layak,Memadai,Gizi Tidak Normal
+,Laki-laki,12.7,63.7,3.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,,3.08,SD,Layak,Memadai,Gizi Normal
+35.0,Perempuan,15.2,82.2,5.0,Rendah,Jarang,Tidak Berlaku,Ada,Lengkap,3.04,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+6.0,Perempuan,6.6,68.9,3.0,Rendah,1 Kali,Ya,Tidak Ada,,2.42,SMP,Layak,Memadai,Gizi Normal
+30.0,Perempuan,8.4,75.9,3.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,2.77,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+12.0,Perempuan,10.9,60.1,4.0,Tinggi,Jarang,Tidak Berlaku,Ada,Lengkap,2.93,SD,Layak,Memadai,Gizi Normal
+25.0,Perempuan,14.5,72.1,4.0,Rendah,1 Kali,Ya,Tidak Ada,Lengkap,2.93,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+35.0,Laki-laki,10.8,61.8,4.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.6,SMP,Layak,Tidak Memadai,Gizi Tidak Normal
+31.0,Laki-laki,,77.2,5.0,Cukup,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,3.27,SMA,Tidak Layak,Tidak Memadai,Gizi Normal
+36.0,Laki-laki,10.3,76.6,3.0,Rendah,Jarang,Tidak,Tidak Ada,Tidak Lengkap,2.44,SMP,Layak,Memadai,Gizi Tidak Normal
+43.0,Laki-laki,20.3,74.5,4.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.47,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+39.0,Laki-laki,10.5,,3.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.39,SMA,Layak,Memadai,Gizi Tidak Normal
+13.0,Laki-laki,11.7,51.7,4.0,,2 Kali atau lebih,Tidak,Tidak Ada,Tidak Lengkap,3.69,SD,Layak,Memadai,Gizi Normal
+23.0,Laki-laki,6.7,81.9,4.0,Cukup,Jarang,Tidak,Ada,Lengkap,3.33,SMP,Layak,Memadai,Gizi Tidak Normal
+16.0,Laki-laki,6.5,70.6,4.0,Cukup,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,4.04,SMA,Layak,Memadai,Gizi Tidak Normal
+41.0,Perempuan,16.0,69.6,3.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,2.88,SMA,Tidak Layak,Memadai,Gizi Normal
+47.0,Laki-laki,12.7,53.3,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.08,SMP,Layak,Memadai,Gizi Tidak Normal
+9.0,Perempuan,11.7,50.6,3.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.39,Perguruan Tinggi,,,Gizi Normal
+6.0,Perempuan,11.0,57.4,3.0,Cukup,1 Kali,Tidak,Ada,Lengkap,2.29,SMA,Layak,Tidak Memadai,Gizi Normal
+23.0,Perempuan,7.4,60.9,3.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.8,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+8.0,Perempuan,12.3,70.8,3.0,Tinggi,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,2.74,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+27.0,,7.4,66.6,2.0,Tinggi,Jarang,Tidak,Tidak Ada,Lengkap,3.53,SMA,Tidak Layak,Memadai,Gizi Tidak Normal
+8.0,Perempuan,12.6,68.7,3.0,Rendah,2 Kali atau lebih,Tidak,Ada,Lengkap,3.59,SD,Layak,Memadai,Gizi Normal
+34.0,Perempuan,17.4,56.6,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.23,SMP,Layak,Memadai,Gizi Normal
+56.0,Perempuan,11.9,80.2,3.0,Cukup,Jarang,Tidak,Ada,Lengkap,3.4,SD,Layak,Memadai,Gizi Tidak Normal
+31.0,Perempuan,16.1,49.2,3.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,3.37,SMA,Tidak Layak,Memadai,Gizi Normal
+,Laki-laki,14.1,61.6,3.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,2.64,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+27.0,Laki-laki,13.9,50.5,5.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.21,SMA,Layak,Tidak Memadai,Gizi Normal
+24.0,Laki-laki,12.2,74.6,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,5.2,SD,Layak,Memadai,Gizi Normal
+19.0,,9.7,,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.76,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+24.0,Perempuan,14.5,73.7,3.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.74,SMA,Layak,Memadai,Gizi Normal
+48.0,Laki-laki,17.4,74.0,5.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.08,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+49.0,Perempuan,11.2,82.9,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,1.38,SMP,Layak,Memadai,Gizi Tidak Normal
+40.0,Perempuan,12.7,68.8,4.0,Rendah,1 Kali,Ya,Ada,Lengkap,3.14,SMA,Layak,Tidak Memadai,Gizi Normal
+47.0,Perempuan,8.5,82.6,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.64,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+9.0,Perempuan,11.4,61.8,3.0,Cukup,1 Kali,Tidak Berlaku,Ada,Tidak Lengkap,2.63,SMP,Tidak Layak,Memadai,Gizi Normal
+34.0,Laki-laki,10.3,85.9,3.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Tidak Lengkap,3.38,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+17.0,Laki-laki,12.5,71.8,2.0,Tinggi,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.18,SD,Layak,Memadai,Gizi Normal
+55.0,Laki-laki,15.7,81.6,2.0,Rendah,Jarang,Tidak Berlaku,Ada,Lengkap,3.7,SMP,Layak,Memadai,Gizi Tidak Normal
+50.0,Perempuan,13.1,73.4,2.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.78,SMA,Tidak Layak,Memadai,Gizi Tidak Normal
+46.0,Perempuan,4.5,68.3,4.0,Tinggi,Jarang,Tidak Berlaku,Ada,Lengkap,4.01,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+13.0,Laki-laki,7.1,63.6,4.0,Cukup,Jarang,Tidak,Ada,Tidak Lengkap,4.38,SD,Tidak Layak,Tidak Memadai,Gizi Tidak Normal
+54.0,Perempuan,11.3,70.8,4.0,Cukup,Jarang,Ya,Ada,Tidak Lengkap,3.35,SMP,Layak,Memadai,Gizi Normal
+27.0,Perempuan,17.2,59.7,2.0,Tinggi,Jarang,Ya,Tidak Ada,Lengkap,3.53,SD,Layak,Memadai,Gizi Normal
+41.0,Laki-laki,10.8,68.5,4.0,Rendah,Jarang,Tidak Berlaku,Ada,Lengkap,3.69,SD,Layak,Memadai,Gizi Tidak Normal
+18.0,Perempuan,14.4,59.5,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.58,SMP,Layak,,Gizi Normal
+11.0,Perempuan,7.8,68.8,4.0,Cukup,1 Kali,Ya,Tidak Ada,,3.81,SMP,Tidak Layak,Memadai,Gizi Normal
+18.0,Perempuan,9.4,67.4,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.87,SD,Layak,Memadai,Gizi Normal
+50.0,Laki-laki,10.0,57.9,3.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,3.19,SMP,Layak,Memadai,Gizi Tidak Normal
+15.0,Laki-laki,12.3,58.4,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.31,SMA,Layak,Memadai,Gizi Normal
+10.0,Perempuan,11.5,59.2,3.0,Rendah,Jarang,Tidak,Ada,Lengkap,3.27,SMA,Layak,Memadai,Gizi Normal
+41.0,Perempuan,13.4,72.5,4.0,Tinggi,1 Kali,Tidak,Ada,Lengkap,3.43,SMA,Layak,Memadai,Gizi Normal
+16.0,Laki-laki,17.4,58.2,4.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.36,SMA,Layak,Tidak Memadai,Gizi Normal
+11.0,Laki-laki,11.6,66.1,3.0,Cukup,Jarang,Tidak,Tidak Ada,Tidak Lengkap,3.03,SD,Layak,Memadai,Gizi Normal
+29.0,Perempuan,7.7,57.6,3.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.13,SMA,Layak,Memadai,Gizi Tidak Normal
+54.0,Laki-laki,6.2,66.6,4.0,Cukup,Jarang,Ya,Ada,Lengkap,2.6,Perguruan Tinggi,Tidak Layak,Tidak Memadai,Gizi Tidak Normal
+41.0,Perempuan,,66.3,3.0,Tinggi,2 Kali atau lebih,Tidak,Ada,Lengkap,2.64,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+31.0,Laki-laki,16.4,68.5,3.0,Tinggi,1 Kali,Tidak Berlaku,Ada,Tidak Lengkap,2.88,SD,Layak,Tidak Memadai,Gizi Normal
+56.0,Perempuan,11.9,60.7,3.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,2.51,SMP,Tidak Layak,Memadai,Gizi Tidak Normal
+54.0,Perempuan,9.9,74.6,5.0,Rendah,1 Kali,Ya,Tidak Ada,Lengkap,3.63,SMA,Tidak Layak,Memadai,Gizi Normal
+28.0,Laki-laki,11.9,62.5,5.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,2.75,SD,Layak,Memadai,Gizi Normal
+45.0,Laki-laki,6.9,79.6,2.0,Cukup,1 Kali,Tidak,Ada,Lengkap,3.93,SD,Layak,Memadai,Gizi Tidak Normal
+9.0,Laki-laki,7.4,64.5,3.0,,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.69,SD,Layak,Memadai,Gizi Normal
+53.0,Laki-laki,9.0,56.9,4.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.7,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+22.0,Perempuan,14.3,65.2,3.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,3.94,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+43.0,Perempuan,6.6,60.9,5.0,Rendah,1 Kali,Tidak,Ada,Tidak Lengkap,2.21,SD,Tidak Layak,Memadai,Gizi Tidak Normal
+47.0,Perempuan,8.6,61.1,3.0,Cukup,1 Kali,Tidak,Ada,Tidak Lengkap,3.58,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+17.0,Laki-laki,15.4,82.5,4.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.0,SMA,Layak,Memadai,Gizi Normal
+33.0,Laki-laki,15.1,74.9,3.0,Tinggi,1 Kali,Ya,Tidak Ada,Tidak Lengkap,3.27,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+58.0,Perempuan,8.3,79.6,3.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,3.2,SMA,Layak,Tidak Memadai,Gizi Tidak Normal
+55.0,Laki-laki,9.6,67.9,3.0,Rendah,Jarang,Tidak,Ada,Lengkap,2.21,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+12.0,Laki-laki,15.1,75.3,3.0,Rendah,1 Kali,Tidak,Tidak Ada,Lengkap,4.14,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+45.0,Perempuan,8.7,48.0,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,4.38,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+56.0,Laki-laki,5.0,55.4,4.0,Cukup,Jarang,Tidak,Ada,Lengkap,,SMP,Layak,Tidak Memadai,Gizi Tidak Normal
+54.0,Perempuan,14.6,52.9,4.0,Cukup,Jarang,Tidak,Ada,Tidak Lengkap,2.99,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+39.0,Laki-laki,5.4,82.2,5.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.06,SMA,Layak,Memadai,Gizi Normal
+45.0,Laki-laki,16.0,72.4,3.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Tidak Lengkap,3.61,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+40.0,Perempuan,16.0,62.3,3.0,Cukup,Jarang,Tidak,Ada,Lengkap,3.13,SMA,Layak,Memadai,Gizi Normal
+50.0,Perempuan,12.9,72.6,5.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.21,SD,Layak,Memadai,Gizi Normal
+43.0,,11.3,58.5,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.97,SMA,Layak,Tidak Memadai,Gizi Normal
+38.0,Laki-laki,8.1,72.5,2.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.85,SD,Tidak Layak,Tidak Memadai,Gizi Tidak Normal
+15.0,Perempuan,16.5,75.0,4.0,Cukup,1 Kali,Tidak,Ada,Tidak Lengkap,2.64,SMP,Layak,Memadai,Gizi Normal
+25.0,Laki-laki,11.8,72.3,5.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,2.85,SMA,Layak,Tidak Memadai,Gizi Normal
+10.0,Perempuan,14.6,80.3,3.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.1,SMA,Tidak Layak,Tidak Memadai,Gizi Normal
+37.0,Perempuan,15.8,67.1,3.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.93,SMP,Tidak Layak,Memadai,Gizi Normal
+23.0,Laki-laki,12.4,66.1,4.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,3.41,SMA,Layak,Tidak Memadai,Gizi Normal
+21.0,Laki-laki,6.5,55.6,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.88,SMP,Layak,Memadai,Gizi Normal
+27.0,Laki-laki,13.9,71.9,4.0,Cukup,,Tidak,Tidak Ada,Lengkap,2.75,SMA,Layak,Memadai,Gizi Normal
+53.0,Laki-laki,9.8,61.3,4.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.68,SD,Layak,Memadai,Gizi Tidak Normal
+15.0,Laki-laki,11.3,59.1,3.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,2.65,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+9.0,Laki-laki,10.3,52.5,5.0,Tinggi,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.13,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+37.0,Perempuan,8.7,,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.59,SD,Layak,Memadai,Gizi Normal
+31.0,Laki-laki,11.6,68.5,2.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+45.0,Perempuan,6.1,73.3,4.0,Rendah,2 Kali atau lebih,Tidak,Ada,Tidak Lengkap,2.97,SD,Tidak Layak,Memadai,Gizi Tidak Normal
+29.0,Perempuan,13.8,55.4,4.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,3.05,SMP,Layak,Memadai,Gizi Normal
+16.0,Perempuan,14.7,59.6,4.0,Tinggi,Jarang,Tidak Berlaku,Ada,Lengkap,3.3,SMA,Layak,Memadai,Gizi Normal
+38.0,Laki-laki,10.4,72.7,4.0,Cukup,,Tidak Berlaku,Tidak Ada,Lengkap,3.47,SMA,Layak,Memadai,Gizi Tidak Normal
+50.0,Laki-laki,15.0,57.5,4.0,Cukup,1 Kali,Tidak,Ada,Lengkap,3.51,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+54.0,Laki-laki,10.4,,5.0,Tinggi,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.98,SMA,Layak,Memadai,Gizi Tidak Normal
+33.0,Laki-laki,8.1,63.0,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.05,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+19.0,Perempuan,13.0,83.3,2.0,Cukup,Jarang,Tidak,Tidak Ada,Tidak Lengkap,3.01,SMA,Layak,Memadai,Gizi Normal
+29.0,Laki-laki,15.0,58.4,3.0,Cukup,1 Kali,Tidak,Ada,Lengkap,3.34,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+31.0,Perempuan,12.7,49.8,4.0,Rendah,Jarang,Ya,,Lengkap,3.07,,Tidak Layak,Memadai,Gizi Normal
+31.0,Perempuan,7.8,50.8,3.0,Cukup,1 Kali,Tidak,Ada,Tidak Lengkap,2.62,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+18.0,Laki-laki,13.2,52.4,2.0,Cukup,,Tidak,Tidak Ada,Tidak Lengkap,3.2,SMA,Layak,Memadai,Gizi Normal
+41.0,Perempuan,13.4,56.9,3.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Tidak Lengkap,2.67,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+25.0,Perempuan,,58.3,2.0,Rendah,Jarang,Tidak Berlaku,Ada,Lengkap,3.22,SD,Layak,Memadai,Gizi Tidak Normal
+25.0,Perempuan,14.2,57.4,4.0,Rendah,Jarang,Ya,Tidak Ada,Lengkap,2.33,SD,Layak,Memadai,Gizi Normal
+53.0,Perempuan,12.6,60.4,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.93,SMP,Layak,Memadai,Gizi Tidak Normal
+6.0,Perempuan,6.0,66.0,3.0,Rendah,Jarang,Tidak,Ada,Lengkap,2.63,SMA,Tidak Layak,Memadai,Gizi Normal
+59.0,Laki-laki,17.1,65.4,4.0,Cukup,Jarang,Ya,,Lengkap,3.35,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+22.0,Perempuan,13.4,48.3,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,3.0,SMA,Layak,Memadai,Gizi Normal
+13.0,Perempuan,15.8,72.2,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Ada,Tidak Lengkap,2.09,SD,Layak,Memadai,Gizi Normal
+13.0,Perempuan,15.4,68.7,3.0,Cukup,Jarang,Tidak,Tidak Ada,Tidak Lengkap,3.56,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+41.0,Laki-laki,15.5,79.3,5.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,3.27,SMA,Layak,Memadai,Gizi Normal
+16.0,Perempuan,,55.7,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.98,SMA,Layak,Memadai,Gizi Normal
+9.0,Laki-laki,12.6,63.7,3.0,Cukup,1 Kali,Ya,Ada,Lengkap,2.91,SMA,Layak,Memadai,Gizi Normal
+48.0,Laki-laki,14.2,,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.44,SD,Tidak Layak,Memadai,Gizi Normal
+12.0,Laki-laki,41.6,81.6,3.0,Rendah,1 Kali,Ya,Tidak Ada,Lengkap,2.98,SMA,Layak,Memadai,Gizi Normal
+15.0,Perempuan,14.4,56.2,4.0,Tinggi,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.42,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+47.0,Laki-laki,9.3,64.9,3.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.09,SMA,Layak,Memadai,Gizi Normal
+52.0,Perempuan,,59.4,4.0,Tinggi,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.27,SD,Layak,Memadai,Gizi Tidak Normal
+58.0,Perempuan,11.3,61.7,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.27,SD,Layak,Memadai,Gizi Tidak Normal
+47.0,Perempuan,5.2,50.9,2.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,2.4,SMA,Layak,Memadai,Gizi Tidak Normal
+,Perempuan,12.8,70.4,3.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.5,SMP,Layak,Tidak Memadai,Gizi Normal
+57.0,Perempuan,17.8,51.8,4.0,Cukup,Jarang,Ya,Ada,Lengkap,3.35,SMA,Layak,Memadai,Gizi Normal
+39.0,Perempuan,12.9,59.7,,Cukup,Jarang,Tidak,Ada,Lengkap,3.09,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+35.0,Laki-laki,7.6,64.6,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,2.86,,Layak,,Gizi Tidak Normal
+46.0,Perempuan,9.6,55.4,4.0,Cukup,Jarang,Tidak,Tidak Ada,Tidak Lengkap,2.68,SMP,Layak,Memadai,Gizi Tidak Normal
+29.0,Laki-laki,14.4,85.4,2.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,3.99,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+56.0,Laki-laki,11.3,48.7,3.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,2.74,SD,Layak,Memadai,Gizi Normal
+42.0,Perempuan,9.8,79.8,3.0,Tinggi,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.56,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+17.0,Laki-laki,9.3,59.1,4.0,Rendah,Jarang,Tidak Berlaku,Ada,Lengkap,2.82,SMP,Tidak Layak,Memadai,Gizi Normal
+26.0,Laki-laki,10.9,73.3,3.0,Cukup,1 Kali,Tidak,Ada,Tidak Lengkap,3.17,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+47.0,Perempuan,11.0,48.7,3.0,Tinggi,Jarang,Tidak,Tidak Ada,Lengkap,2.75,SD,Layak,Memadai,Gizi Tidak Normal
+,Laki-laki,6.3,83.3,3.0,Rendah,1 Kali,,Ada,Lengkap,3.73,SD,Layak,Memadai,Gizi Normal
+37.0,Laki-laki,10.0,74.3,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,3.94,SD,,Memadai,Gizi Normal
+31.0,Laki-laki,9.0,66.1,4.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,3.51,SMA,Layak,Memadai,Gizi Tidak Normal
+7.0,Laki-laki,15.2,84.3,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,2.9,SMP,Layak,Memadai,Gizi Normal
+14.0,Perempuan,8.8,55.5,3.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Tidak Lengkap,2.74,SMP,Layak,Memadai,Gizi Normal
+51.0,Perempuan,14.1,59.8,3.0,Cukup,Jarang,Tidak,Ada,Lengkap,3.7,SMA,Layak,Memadai,Gizi Tidak Normal
+28.0,Laki-laki,12.2,75.5,4.0,Tinggi,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.66,SD,Layak,Memadai,Gizi Normal
+56.0,Perempuan,13.1,56.9,4.0,Tinggi,1 Kali,Tidak,Tidak Ada,Lengkap,3.07,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+6.0,Laki-laki,11.6,58.8,4.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,3.13,SMP,Layak,Tidak Memadai,Gizi Normal
+,Perempuan,14.4,58.3,3.0,Cukup,,Tidak Berlaku,Tidak Ada,Lengkap,2.8,SD,Layak,Memadai,Gizi Normal
+12.0,Laki-laki,10.1,68.7,4.0,Cukup,Jarang,Ya,Ada,Lengkap,3.12,SMA,Layak,Memadai,Gizi Normal
+47.0,Laki-laki,14.5,77.0,2.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,1.92,SMP,Layak,Tidak Memadai,Gizi Normal
+59.0,Perempuan,14.9,62.2,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Tidak Lengkap,2.74,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+42.0,Perempuan,4.0,49.8,3.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,2.68,SMP,Tidak Layak,Memadai,Gizi Normal
+35.0,Laki-laki,8.7,58.7,5.0,Cukup,1 Kali,Tidak Berlaku,,Lengkap,2.53,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+32.0,Laki-laki,10.0,68.8,5.0,Tinggi,Jarang,Ya,Tidak Ada,Lengkap,3.08,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+33.0,Laki-laki,15.5,75.2,3.0,Rendah,2 Kali atau lebih,Ya,Ada,,3.47,SD,Layak,Memadai,Gizi Normal
+58.0,Laki-laki,13.9,52.8,4.0,,Jarang,Ya,Tidak Ada,Lengkap,3.31,SMP,,Memadai,Gizi Tidak Normal
+35.0,Perempuan,11.1,59.6,5.0,Cukup,1 Kali,Ya,Ada,Lengkap,2.32,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+41.0,Laki-laki,4.7,67.5,5.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.77,Perguruan Tinggi,Layak,,Gizi Normal
+44.0,Perempuan,4.6,54.7,4.0,Tinggi,2 Kali atau lebih,Ya,Ada,Lengkap,3.21,SMA,Layak,Memadai,Gizi Tidak Normal
+35.0,Perempuan,6.1,60.7,3.0,Cukup,2 Kali atau lebih,Ya,Ada,Tidak Lengkap,2.39,SD,Layak,Memadai,Gizi Tidak Normal
+51.0,Laki-laki,16.1,75.1,4.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.08,SD,Layak,Memadai,Gizi Normal
+43.0,Perempuan,9.2,70.2,3.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,2.33,SMA,Layak,Memadai,Gizi Normal
+53.0,Laki-laki,6.5,58.6,5.0,Rendah,Jarang,Ya,Tidak Ada,,2.96,SMA,Tidak Layak,Tidak Memadai,Gizi Tidak Normal
+,Perempuan,14.3,75.2,3.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.97,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+59.0,Laki-laki,13.4,62.3,3.0,Rendah,1 Kali,Tidak,Tidak Ada,Lengkap,2.6,,Layak,Memadai,Gizi Normal
+13.0,Perempuan,9.9,53.5,4.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,4.11,Perguruan Tinggi,Tidak Layak,Tidak Memadai,Gizi Normal
+37.0,Perempuan,6.1,,2.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,,SMA,Layak,Memadai,Gizi Tidak Normal
+37.0,Laki-laki,,60.5,3.0,Rendah,2 Kali atau lebih,Ya,Ada,Lengkap,3.17,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Tidak Normal
+31.0,Laki-laki,12.1,70.4,3.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,4.24,SD,Layak,Memadai,Gizi Normal
+23.0,Laki-laki,8.0,45.0,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,2.45,SMA,Layak,Memadai,Gizi Normal
+37.0,Perempuan,11.2,70.1,2.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.18,SMA,Layak,Memadai,Gizi Tidak Normal
+50.0,Perempuan,11.4,60.4,3.0,Tinggi,1 Kali,Ya,Tidak Ada,Lengkap,3.62,SMA,Layak,Memadai,Gizi Tidak Normal
+42.0,Laki-laki,9.7,65.9,2.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.91,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+39.0,Perempuan,14.8,54.3,3.0,Rendah,Jarang,Ya,Tidak Ada,Lengkap,3.39,Perguruan Tinggi,,Memadai,Gizi Normal
+18.0,,13.7,73.3,3.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.74,SD,Layak,Memadai,Gizi Normal
+24.0,Perempuan,4.9,64.2,4.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,3.75,SMP,Layak,Memadai,Gizi Normal
+46.0,Laki-laki,11.4,55.1,3.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,2.6,SD,Layak,Memadai,Gizi Tidak Normal
+18.0,Perempuan,9.4,52.5,3.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Tidak Lengkap,3.04,SMA,Layak,Memadai,Gizi Normal
+47.0,Perempuan,8.9,67.2,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,3.2,SMP,Tidak Layak,Memadai,Gizi Tidak Normal
+38.0,Laki-laki,,64.4,4.0,Rendah,1 Kali,,Tidak Ada,Lengkap,3.01,SMA,Layak,Memadai,Gizi Tidak Normal
+52.0,Laki-laki,5.8,59.9,2.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,2.66,,Layak,Memadai,Gizi Tidak Normal
+27.0,Laki-laki,8.0,62.5,5.0,,Jarang,Tidak,Ada,Tidak Lengkap,2.48,SMP,Layak,Tidak Memadai,Gizi Normal
+10.0,Perempuan,8.9,52.2,3.0,Rendah,Jarang,Tidak,Ada,Lengkap,3.03,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+7.0,Perempuan,17.1,66.6,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.81,SD,Layak,Memadai,Gizi Normal
+44.0,Perempuan,17.9,58.6,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.83,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+7.0,Perempuan,6.6,49.6,5.0,Tinggi,,Tidak,Tidak Ada,Lengkap,3.29,SMA,Layak,Memadai,Gizi Normal
+38.0,Perempuan,,61.4,3.0,Cukup,Jarang,Tidak Berlaku,Ada,Lengkap,2.6,SD,Layak,Memadai,Gizi Normal
+16.0,Laki-laki,13.6,62.6,3.0,Rendah,Jarang,Tidak,Ada,Lengkap,2.17,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+10.0,Laki-laki,13.6,71.8,3.0,Cukup,Jarang,Ya,Ada,Lengkap,3.63,SD,Layak,Memadai,Gizi Normal
+37.0,Laki-laki,16.7,69.6,3.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.62,SMA,Tidak Layak,Memadai,Gizi Normal
+57.0,Perempuan,6.0,45.0,4.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.42,SMP,Layak,Tidak Memadai,Gizi Normal
+47.0,Laki-laki,17.0,60.9,2.0,Rendah,,Ya,Ada,Lengkap,1.94,SD,Layak,Memadai,Gizi Normal
+47.0,Perempuan,8.8,67.9,3.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,4.32,Perguruan Tinggi,Layak,,Gizi Normal
+43.0,Laki-laki,4.7,75.7,3.0,Rendah,Jarang,Tidak Berlaku,Ada,Lengkap,3.18,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+14.0,Laki-laki,13.1,63.7,3.0,Cukup,,Ya,Tidak Ada,Lengkap,2.85,SMP,Layak,Memadai,Gizi Normal
+49.0,Perempuan,12.7,54.6,5.0,Tinggi,2 Kali atau lebih,Ya,Ada,Lengkap,2.88,SD,Tidak Layak,Memadai,Gizi Tidak Normal
+48.0,Laki-laki,8.5,70.2,2.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.77,SMA,Tidak Layak,Memadai,Gizi Normal
+36.0,Perempuan,17.4,66.6,4.0,Cukup,Jarang,Tidak,Ada,Lengkap,2.98,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+59.0,Perempuan,16.1,68.9,3.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.18,SMP,Layak,,Gizi Normal
+44.0,Laki-laki,12.7,71.1,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,2.41,SMP,Tidak Layak,Memadai,Gizi Tidak Normal
+45.0,Perempuan,9.5,73.0,4.0,Cukup,1 Kali,Ya,Tidak Ada,Tidak Lengkap,2.69,SMA,Layak,Memadai,Gizi Tidak Normal
+46.0,Perempuan,11.8,70.4,5.0,Cukup,2 Kali atau lebih,Tidak Berlaku,,Lengkap,2.23,SMP,Layak,Memadai,Gizi Tidak Normal
+37.0,Laki-laki,9.8,76.4,5.0,Rendah,2 Kali atau lebih,Tidak,Ada,Lengkap,3.38,SMA,Tidak Layak,Memadai,Gizi Tidak Normal
+42.0,Laki-laki,15.5,65.1,4.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.49,SMA,Layak,Memadai,Gizi Normal
+12.0,,6.6,79.8,4.0,Tinggi,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.28,SMA,Layak,Memadai,Gizi Normal
+12.0,Laki-laki,5.9,70.0,3.0,Rendah,2 Kali atau lebih,Tidak,Ada,Lengkap,2.17,SMA,,Memadai,Gizi Normal
+47.0,Laki-laki,10.3,56.9,5.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,,SD,Layak,Tidak Memadai,Gizi Tidak Normal
+26.0,Laki-laki,8.2,62.9,3.0,Rendah,2 Kali atau lebih,Tidak Berlaku,,Lengkap,3.37,SD,Layak,Memadai,Gizi Tidak Normal
+36.0,Laki-laki,9.4,72.3,4.0,Cukup,1 Kali,Tidak,Ada,Lengkap,2.71,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+43.0,Laki-laki,10.4,54.1,5.0,Tinggi,Jarang,Tidak,Tidak Ada,Tidak Lengkap,2.54,SD,Tidak Layak,Tidak Memadai,Gizi Tidak Normal
+39.0,Perempuan,12.7,56.7,3.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,2.63,SMA,Tidak Layak,Memadai,Gizi Tidak Normal
+51.0,Perempuan,18.6,,4.0,Rendah,Jarang,Tidak,Ada,Lengkap,3.49,SD,,Memadai,Gizi Normal
+23.0,Perempuan,13.4,45.0,3.0,Cukup,1 Kali,Ya,Tidak Ada,Tidak Lengkap,3.13,SD,Layak,Memadai,Gizi Normal
+55.0,Laki-laki,16.3,70.1,4.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.16,SMP,Tidak Layak,Memadai,Gizi Normal
+41.0,Perempuan,11.6,50.0,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,4.54,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+18.0,Perempuan,12.9,81.6,5.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.36,SD,Tidak Layak,Memadai,Gizi Normal
+39.0,Perempuan,6.4,72.5,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.88,SD,Tidak Layak,Tidak Memadai,Gizi Normal
+54.0,Perempuan,,74.8,5.0,Cukup,1 Kali,Tidak,Ada,Lengkap,2.04,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Tidak Normal
+16.0,Laki-laki,12.3,172.8,4.0,Tinggi,,Tidak Berlaku,Ada,Lengkap,3.25,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+29.0,Perempuan,13.6,55.7,4.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,3.73,SMA,Layak,Tidak Memadai,Gizi Normal
+,Perempuan,6.7,80.1,4.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.09,SMP,Layak,Tidak Memadai,Gizi Tidak Normal
+41.0,Laki-laki,17.6,59.9,3.0,Rendah,1 Kali,Ya,Tidak Ada,,3.4,Perguruan Tinggi,,Tidak Memadai,Gizi Normal
+52.0,Laki-laki,14.6,57.7,2.0,Tinggi,1 Kali,Tidak,Tidak Ada,Lengkap,3.45,SD,Tidak Layak,Memadai,Gizi Normal
+40.0,Perempuan,9.6,68.2,4.0,Tinggi,1 Kali,Tidak Berlaku,Tidak Ada,Tidak Lengkap,2.76,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+30.0,Perempuan,10.9,55.1,3.0,Cukup,2 Kali atau lebih,,Tidak Ada,Lengkap,3.77,SMP,Layak,Tidak Memadai,Gizi Normal
+9.0,Laki-laki,16.1,65.8,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,1.53,SD,Layak,Memadai,Gizi Normal
+,Laki-laki,8.0,58.1,2.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.63,SMP,Layak,Memadai,Gizi Normal
+56.0,Perempuan,15.3,70.6,2.0,Cukup,,Ya,Tidak Ada,Lengkap,4.12,SMP,Layak,Memadai,Gizi Normal
+42.0,Laki-laki,14.6,58.9,3.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,2.3,SD,Layak,Memadai,Gizi Normal
+29.0,Laki-laki,13.6,61.2,3.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.57,Perguruan Tinggi,,Memadai,Gizi Normal
+48.0,Laki-laki,14.4,50.1,3.0,Cukup,2 Kali atau lebih,,Ada,Lengkap,2.7,SMA,Layak,Memadai,Gizi Normal
+33.0,Perempuan,13.3,60.2,5.0,Rendah,1 Kali,Tidak,Ada,Tidak Lengkap,3.0,SMP,Layak,Memadai,Gizi Normal
+33.0,Laki-laki,7.3,63.9,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,2.96,SMP,Tidak Layak,Memadai,Gizi Normal
+26.0,Perempuan,,83.4,3.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,2.91,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+36.0,Perempuan,11.7,73.6,4.0,Cukup,Jarang,Ya,Ada,Tidak Lengkap,2.46,SMA,Tidak Layak,Memadai,Gizi Normal
+54.0,Perempuan,13.9,65.1,3.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.93,SMP,Layak,Memadai,Gizi Tidak Normal
+29.0,Laki-laki,9.1,59.0,3.0,Rendah,1 Kali,Tidak Berlaku,Ada,Lengkap,2.43,SMP,Layak,Memadai,Gizi Tidak Normal
+29.0,Laki-laki,9.9,61.5,3.0,Rendah,Jarang,Ya,Tidak Ada,Lengkap,3.96,SMP,Layak,Memadai,Gizi Tidak Normal
+21.0,Laki-laki,7.0,60.1,3.0,Cukup,Jarang,Tidak Berlaku,Ada,Lengkap,3.19,,Layak,Memadai,Gizi Normal
+8.0,Laki-laki,11.0,73.6,5.0,Cukup,1 Kali,Ya,Tidak Ada,Tidak Lengkap,2.28,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+18.0,Laki-laki,7.2,74.5,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.23,SD,Tidak Layak,Memadai,Gizi Normal
+52.0,Laki-laki,11.5,64.3,3.0,Cukup,Jarang,Ya,Tidak Ada,Tidak Lengkap,2.79,SMA,Layak,Memadai,Gizi Tidak Normal
+15.0,Laki-laki,9.9,55.6,4.0,Cukup,,Ya,Tidak Ada,Tidak Lengkap,3.0,SMA,Layak,Memadai,Gizi Normal
+28.0,Laki-laki,15.2,69.4,4.0,Tinggi,1 Kali,,Ada,Lengkap,3.59,SD,Layak,Tidak Memadai,Gizi Normal
+41.0,Perempuan,12.5,68.8,5.0,Cukup,,Tidak,Tidak Ada,Lengkap,2.03,SMA,Layak,Memadai,Gizi Normal
+40.0,Perempuan,7.9,64.6,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Tidak Lengkap,3.16,SMP,Layak,Memadai,Gizi Normal
+7.0,Perempuan,8.9,50.8,2.0,Rendah,1 Kali,Ya,Tidak Ada,Tidak Lengkap,2.9,SD,Layak,Memadai,Gizi Normal
+36.0,Laki-laki,13.9,71.1,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,2.43,SMA,Layak,Memadai,Gizi Normal
+58.0,Laki-laki,16.0,60.1,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,2.89,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+27.0,Perempuan,6.3,49.5,3.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.61,SD,Layak,Memadai,Gizi Tidak Normal
+7.0,Perempuan,9.8,58.2,3.0,Cukup,Jarang,Ya,Ada,Lengkap,2.49,SD,Layak,Memadai,Gizi Normal
+46.0,Perempuan,10.6,56.8,5.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.05,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+26.0,Perempuan,12.6,66.9,4.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,4.29,SD,Layak,Memadai,Gizi Normal
+28.0,Laki-laki,12.9,46.8,4.0,Cukup,2 Kali atau lebih,Ya,Ada,Tidak Lengkap,1.93,SMP,Layak,Memadai,Gizi Normal
+42.0,Laki-laki,9.5,74.0,3.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,,2.97,SMA,Layak,Memadai,Gizi Tidak Normal
+35.0,Laki-laki,8.2,67.7,,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,2.13,SMA,Layak,Memadai,Gizi Tidak Normal
+39.0,Perempuan,14.0,77.1,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,2.59,SMA,Tidak Layak,Memadai,Gizi Normal
+26.0,Laki-laki,12.4,57.0,4.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,2.86,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+16.0,Laki-laki,15.5,53.0,5.0,Cukup,,Tidak Berlaku,Ada,Lengkap,3.55,SMP,Tidak Layak,Memadai,Gizi Normal
+10.0,Perempuan,8.4,51.5,3.0,Tinggi,Jarang,Tidak,Ada,Lengkap,2.72,SD,Layak,Memadai,Gizi Normal
+12.0,Perempuan,8.7,67.6,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.83,SMP,Layak,Memadai,Gizi Normal
+59.0,Perempuan,8.0,71.9,3.0,Cukup,2 Kali atau lebih,Tidak,Ada,Tidak Lengkap,2.36,SMA,Layak,Memadai,Gizi Normal
+27.0,Laki-laki,19.7,73.2,3.0,Rendah,2 Kali atau lebih,Ya,Ada,Lengkap,3.16,SMA,Tidak Layak,Memadai,Gizi Normal
+12.0,,12.6,79.0,3.0,Tinggi,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,3.35,SMA,Layak,Tidak Memadai,Gizi Normal
+57.0,Perempuan,11.4,80.6,3.0,Rendah,1 Kali,Tidak Berlaku,,Lengkap,3.46,SD,Layak,Memadai,Gizi Normal
+56.0,Laki-laki,15.7,66.5,3.0,Rendah,Jarang,Ya,Ada,Lengkap,2.51,Perguruan Tinggi,Layak,,Gizi Normal
+56.0,Perempuan,16.4,75.6,4.0,Rendah,Jarang,Ya,Ada,Lengkap,2.55,SD,Layak,Memadai,Gizi Normal
+25.0,Perempuan,6.8,59.4,4.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,2.63,SMA,Layak,Memadai,Gizi Tidak Normal
+24.0,Laki-laki,11.0,63.0,2.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.38,SMP,Layak,Memadai,Gizi Normal
+30.0,Perempuan,11.9,71.2,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.44,SD,Layak,Memadai,Gizi Normal
+48.0,Perempuan,14.4,84.9,4.0,Tinggi,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,3.05,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+21.0,Perempuan,15.8,67.5,3.0,Cukup,Jarang,,Ada,Lengkap,2.42,SMP,Tidak Layak,Tidak Memadai,Gizi Normal
+11.0,Perempuan,15.5,54.5,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.12,SMA,Layak,Memadai,Gizi Normal
+57.0,Laki-laki,6.8,50.5,3.0,Rendah,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,2.73,SD,Layak,Memadai,Gizi Normal
+37.0,Laki-laki,11.8,67.5,2.0,Cukup,1 Kali,Ya,Ada,Lengkap,3.31,SD,Layak,Memadai,Gizi Tidak Normal
+32.0,Laki-laki,13.6,79.9,3.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,3.2,SMP,Layak,Memadai,Gizi Normal
+37.0,Perempuan,18.4,61.1,5.0,Tinggi,2 Kali atau lebih,Ya,Ada,Lengkap,3.43,SD,Layak,Memadai,Gizi Normal
+10.0,Laki-laki,8.8,70.7,3.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Tidak Lengkap,4.05,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+47.0,Perempuan,9.2,64.5,3.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.19,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+23.0,Perempuan,10.3,72.4,4.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.93,SD,Layak,Memadai,Gizi Normal
+12.0,Laki-laki,14.4,56.1,5.0,,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.02,SMA,Layak,Memadai,Gizi Normal
+47.0,Laki-laki,9.5,61.7,3.0,Cukup,2 Kali atau lebih,Ya,Ada,Lengkap,3.2,,Layak,Memadai,Gizi Normal
+46.0,Perempuan,13.0,65.1,2.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.62,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+19.0,Laki-laki,13.4,65.4,4.0,Cukup,Jarang,Ya,Ada,Lengkap,3.96,,Tidak Layak,Memadai,Gizi Normal
+52.0,Perempuan,13.5,75.3,3.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,3.0,SMP,Layak,Memadai,Gizi Normal
+6.0,Laki-laki,10.0,59.3,3.0,Rendah,2 Kali atau lebih,Ya,Ada,Lengkap,4.98,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+59.0,Laki-laki,17.3,64.4,5.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.3,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+48.0,Laki-laki,11.5,55.3,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.93,Perguruan Tinggi,,Memadai,Gizi Tidak Normal
+29.0,Perempuan,9.8,78.9,5.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,3.42,SMP,Layak,Memadai,Gizi Tidak Normal
+50.0,Laki-laki,9.6,61.1,5.0,Tinggi,Jarang,Tidak Berlaku,,Lengkap,2.73,SD,Layak,Memadai,Gizi Normal
+11.0,Laki-laki,7.5,70.8,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.28,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+39.0,Perempuan,9.3,64.3,,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.75,SMP,Layak,Memadai,Gizi Tidak Normal
+9.0,Laki-laki,17.9,54.8,4.0,Rendah,Jarang,Tidak Berlaku,Ada,Lengkap,3.35,SMA,Layak,Memadai,Gizi Normal
+20.0,Laki-laki,7.8,48.3,5.0,Rendah,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,3.41,Perguruan Tinggi,,Tidak Memadai,Gizi Tidak Normal
+55.0,Laki-laki,13.3,79.5,4.0,Cukup,Jarang,Ya,Ada,Lengkap,3.19,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+42.0,Laki-laki,12.0,73.2,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,,SMP,Layak,Memadai,Gizi Tidak Normal
+44.0,Perempuan,6.4,63.2,4.0,,1 Kali,Ya,Tidak Ada,Lengkap,3.55,SD,Layak,Memadai,Gizi Normal
+58.0,,11.7,70.6,4.0,Rendah,1 Kali,Ya,Tidak Ada,Lengkap,3.29,SMP,Tidak Layak,Memadai,Gizi Tidak Normal
+47.0,Perempuan,11.2,51.2,3.0,Tinggi,Jarang,Ya,Tidak Ada,Lengkap,3.81,SMP,Layak,Memadai,Gizi Normal
+,Perempuan,,63.1,3.0,Cukup,Jarang,Tidak Berlaku,Ada,Lengkap,3.53,SMA,Layak,Memadai,Gizi Normal
+43.0,Laki-laki,12.0,58.5,4.0,Tinggi,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.72,,Layak,Memadai,Gizi Normal
+31.0,Laki-laki,10.2,52.1,4.0,Cukup,,Tidak,Tidak Ada,Lengkap,3.38,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+14.0,Laki-laki,12.1,59.8,5.0,Rendah,1 Kali,Ya,Tidak Ada,Lengkap,3.5,SMP,Layak,Memadai,Gizi Normal
+58.0,Perempuan,9.0,78.0,4.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.91,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+35.0,Perempuan,3.0,46.4,4.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Tidak Lengkap,,SD,Layak,Memadai,Gizi Normal
+29.0,Perempuan,12.0,64.8,3.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Tidak Lengkap,3.12,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+52.0,Laki-laki,15.0,62.3,4.0,Tinggi,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.01,SD,Layak,Memadai,Gizi Normal
+25.0,Laki-laki,16.3,80.2,5.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.33,SMA,Layak,Memadai,Gizi Normal
+8.0,Perempuan,8.1,59.9,4.0,Cukup,Jarang,Tidak,Tidak Ada,Tidak Lengkap,4.21,SMA,Layak,Memadai,Gizi Normal
+45.0,Laki-laki,5.4,70.9,4.0,,1 Kali,Tidak,Ada,Lengkap,4.37,SD,Layak,Memadai,Gizi Tidak Normal
+26.0,Perempuan,16.5,71.6,3.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,3.69,SMA,Layak,Memadai,Gizi Normal
+29.0,Laki-laki,15.1,74.9,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.66,SMP,Tidak Layak,Memadai,Gizi Normal
+30.0,Perempuan,10.2,55.1,4.0,Cukup,1 Kali,Ya,Ada,Lengkap,2.37,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+6.0,Laki-laki,14.2,72.3,4.0,Rendah,Jarang,Tidak,Ada,Lengkap,2.77,SMP,,Memadai,Gizi Normal
+21.0,Laki-laki,9.4,64.9,4.0,Rendah,Jarang,Ya,Tidak Ada,Lengkap,3.06,SMP,Layak,Memadai,Gizi Normal
+54.0,Perempuan,15.4,66.4,4.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.23,SD,Layak,Memadai,Gizi Normal
+31.0,Perempuan,8.4,60.2,4.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.81,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+19.0,Laki-laki,9.7,67.1,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,3.52,SD,Layak,Tidak Memadai,Gizi Normal
+30.0,Perempuan,10.6,73.7,3.0,Rendah,1 Kali,Tidak,Ada,Lengkap,2.73,SMA,Layak,Memadai,Gizi Tidak Normal
+20.0,Laki-laki,11.2,64.8,4.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.77,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+23.0,Laki-laki,11.0,61.3,4.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.8,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+46.0,Laki-laki,4.9,74.0,4.0,Cukup,Jarang,Tidak,,Lengkap,3.8,SMA,Layak,Memadai,Gizi Tidak Normal
+26.0,Laki-laki,11.8,74.4,3.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,2.56,SMP,Layak,Memadai,Gizi Normal
+41.0,Perempuan,15.2,74.3,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.02,SD,Layak,Memadai,Gizi Normal
+7.0,Perempuan,14.6,,3.0,Tinggi,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.37,SMP,Layak,Memadai,Gizi Normal
+16.0,Laki-laki,10.1,74.0,4.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,4.01,SD,Layak,Memadai,Gizi Normal
+50.0,Perempuan,15.0,52.9,5.0,Cukup,Jarang,Tidak,Ada,Lengkap,3.72,SD,Layak,Memadai,Gizi Normal
+11.0,Perempuan,8.5,52.9,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,3.52,SMP,Layak,Memadai,Gizi Normal
+26.0,Perempuan,13.6,59.4,4.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Tidak Lengkap,3.98,SD,Layak,Memadai,Gizi Normal
+11.0,Laki-laki,8.5,82.2,4.0,Rendah,,Tidak Berlaku,Ada,Lengkap,3.72,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+47.0,Laki-laki,12.2,57.9,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.7,SD,Layak,Memadai,Gizi Tidak Normal
+58.0,Laki-laki,11.3,65.3,4.0,Rendah,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.8,SMA,Layak,Tidak Memadai,Gizi Tidak Normal
+24.0,Perempuan,11.3,59.7,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,3.77,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+6.0,Laki-laki,9.4,64.8,4.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,2.67,SMA,Layak,Memadai,Gizi Normal
+,Laki-laki,15.8,69.4,2.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.6,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+15.0,Laki-laki,19.0,64.3,4.0,Rendah,Jarang,Ya,Tidak Ada,Tidak Lengkap,3.29,SD,Layak,Memadai,Gizi Normal
+31.0,Laki-laki,13.9,60.8,2.0,Rendah,1 Kali,,Tidak Ada,Lengkap,2.84,SMP,Layak,Memadai,Gizi Normal
+21.0,Laki-laki,11.9,64.9,2.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.78,SD,Tidak Layak,Memadai,Gizi Normal
+31.0,Perempuan,15.1,56.0,4.0,Cukup,1 Kali,Tidak,Ada,Lengkap,2.86,SMA,Layak,Memadai,Gizi Normal
+17.0,Laki-laki,12.0,85.6,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.87,SD,Tidak Layak,Memadai,Gizi Normal
+58.0,Laki-laki,13.5,59.4,2.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,3.41,SMP,Layak,Memadai,Gizi Tidak Normal
+26.0,Laki-laki,15.3,62.1,,Rendah,1 Kali,Tidak,Tidak Ada,Lengkap,3.75,SMP,Layak,Memadai,Gizi Normal
+19.0,Perempuan,12.2,57.9,4.0,Cukup,1 Kali,Ya,Ada,Lengkap,3.0,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+13.0,Perempuan,12.7,77.5,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.0,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+24.0,Laki-laki,9.5,62.0,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.64,SMA,Tidak Layak,Memadai,Gizi Normal
+32.0,Laki-laki,12.3,68.1,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.03,SMA,Tidak Layak,Memadai,Gizi Normal
+56.0,Laki-laki,14.5,68.5,3.0,Cukup,2 Kali atau lebih,Tidak,,Lengkap,2.35,SD,Layak,Tidak Memadai,Gizi Normal
+6.0,Laki-laki,6.6,78.2,3.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,1.87,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+44.0,Laki-laki,9.4,58.5,5.0,Cukup,Jarang,Tidak Berlaku,Ada,,3.95,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+12.0,Perempuan,16.5,61.1,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.41,SD,Tidak Layak,Memadai,Gizi Normal
+48.0,Laki-laki,13.6,55.9,4.0,Cukup,1 Kali,Ya,Tidak Ada,,2.58,SD,Layak,Memadai,Gizi Normal
+46.0,Laki-laki,12.4,63.4,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,2.53,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+48.0,Laki-laki,4.3,60.7,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,3.24,SMA,Layak,Memadai,Gizi Tidak Normal
+17.0,Laki-laki,5.4,72.9,4.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.07,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+27.0,Perempuan,15.7,79.5,5.0,Cukup,1 Kali,Ya,Tidak Ada,Lengkap,3.75,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+46.0,Perempuan,15.2,80.5,3.0,Cukup,2 Kali atau lebih,Ya,Ada,Lengkap,3.52,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+50.0,Perempuan,15.9,70.7,3.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,1.2,SMP,Layak,Memadai,Gizi Normal
+40.0,Perempuan,14.1,77.7,4.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.74,SD,Layak,Tidak Memadai,Gizi Normal
+44.0,Laki-laki,,66.5,2.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.62,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+31.0,Laki-laki,9.3,74.6,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,,Tidak Lengkap,2.78,SMA,Layak,Memadai,Gizi Normal
+59.0,Perempuan,10.4,62.6,5.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.46,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+37.0,Laki-laki,5.2,54.3,4.0,Tinggi,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.47,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+15.0,Laki-laki,7.3,59.5,5.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.22,SMA,Layak,Memadai,Gizi Tidak Normal
+51.0,Perempuan,13.4,66.5,3.0,Rendah,1 Kali,Ya,Tidak Ada,Lengkap,3.76,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Tidak Normal
+42.0,Perempuan,,45.0,3.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,3.34,SMP,Layak,,Gizi Tidak Normal
+9.0,Perempuan,8.5,64.3,4.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.07,SMA,Tidak Layak,Memadai,Gizi Normal
+58.0,Laki-laki,10.3,56.0,3.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.35,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Tidak Normal
+23.0,Laki-laki,8.6,66.3,5.0,Cukup,Jarang,Tidak,Ada,Tidak Lengkap,3.58,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+32.0,Laki-laki,4.3,74.1,4.0,Rendah,1 Kali,Tidak Berlaku,Ada,Lengkap,2.48,SMP,Layak,Memadai,Gizi Tidak Normal
+18.0,Perempuan,,61.7,3.0,Tinggi,Jarang,Ya,Tidak Ada,Lengkap,3.65,SD,Layak,Memadai,Gizi Normal
+52.0,Laki-laki,12.9,76.8,4.0,Rendah,2 Kali atau lebih,Tidak,Ada,Lengkap,3.64,SMA,Layak,Memadai,Gizi Tidak Normal
+30.0,Perempuan,4.7,79.3,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.67,SMP,Layak,Tidak Memadai,Gizi Normal
+39.0,Perempuan,13.9,71.0,3.0,Rendah,1 Kali,Ya,Tidak Ada,Tidak Lengkap,3.24,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+35.0,Perempuan,10.0,59.7,4.0,Cukup,1 Kali,Ya,Tidak Ada,Tidak Lengkap,3.57,,Layak,Memadai,Gizi Tidak Normal
+47.0,Perempuan,11.8,69.4,3.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.58,Perguruan Tinggi,Tidak Layak,,Gizi Tidak Normal
+50.0,Perempuan,14.8,83.4,4.0,Cukup,,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.28,SMP,Tidak Layak,Memadai,Gizi Normal
+10.0,Laki-laki,10.4,56.6,5.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.95,SMA,Layak,Memadai,Gizi Normal
+17.0,Perempuan,15.5,56.1,4.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,1.51,SMA,Layak,Memadai,Gizi Normal
+47.0,Perempuan,4.7,55.6,4.0,Rendah,1 Kali,,Tidak Ada,Lengkap,4.1,SMP,Layak,Memadai,Gizi Tidak Normal
+43.0,Laki-laki,13.2,61.2,5.0,Cukup,Jarang,Tidak,Ada,Lengkap,3.39,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+37.0,Perempuan,14.5,,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.73,SD,Layak,Memadai,Gizi Normal
+9.0,Laki-laki,12.1,78.9,3.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.77,SMA,Layak,Memadai,Gizi Normal
+18.0,Laki-laki,11.9,78.4,4.0,Cukup,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,2.71,SMP,Layak,Memadai,Gizi Normal
+54.0,Laki-laki,10.3,81.8,3.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,2.37,,Layak,Memadai,Gizi Tidak Normal
+32.0,Laki-laki,12.6,73.5,3.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,3.57,SD,Layak,Memadai,Gizi Normal
+17.0,Laki-laki,15.9,72.8,5.0,,1 Kali,Ya,Tidak Ada,Lengkap,3.29,SMA,Tidak Layak,,Gizi Normal
+47.0,Laki-laki,9.4,75.6,4.0,Cukup,,Tidak,Tidak Ada,Lengkap,2.93,SD,Layak,Memadai,Gizi Normal
+23.0,Perempuan,7.1,62.2,3.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.33,,Layak,Memadai,Gizi Tidak Normal
+47.0,Perempuan,9.6,63.4,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.77,SMA,Layak,Memadai,Gizi Tidak Normal
+12.0,Perempuan,14.7,74.2,4.0,Tinggi,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,2.63,SD,Layak,Memadai,Gizi Normal
+8.0,Laki-laki,12.3,52.9,3.0,,Jarang,Ya,,Lengkap,3.14,SMA,Layak,Memadai,Gizi Normal
+50.0,Perempuan,12.8,76.6,3.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Ada,Lengkap,2.4,SD,Layak,Memadai,Gizi Tidak Normal
+8.0,Perempuan,6.5,67.3,4.0,Tinggi,1 Kali,Tidak,Tidak Ada,Tidak Lengkap,,SMA,Layak,Memadai,Gizi Normal
+52.0,Perempuan,9.6,85.8,3.0,Cukup,Jarang,Tidak,Tidak Ada,Tidak Lengkap,2.99,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+8.0,Perempuan,14.7,70.5,5.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.41,SD,Layak,Memadai,Gizi Normal
+55.0,Perempuan,12.1,65.4,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.24,SMP,Layak,Memadai,Gizi Tidak Normal
+39.0,Laki-laki,15.9,74.4,5.0,Cukup,Jarang,Ya,Tidak Ada,Lengkap,3.59,SD,Layak,Memadai,Gizi Normal
+13.0,Perempuan,14.0,59.6,4.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.34,SMA,Tidak Layak,Memadai,Gizi Normal
+38.0,Perempuan,12.3,72.6,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.18,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+19.0,Laki-laki,6.4,73.4,4.0,Cukup,Jarang,Tidak,Ada,Lengkap,3.05,SMA,Layak,Memadai,Gizi Tidak Normal
+16.0,Laki-laki,12.5,82.9,2.0,Rendah,1 Kali,Tidak,Tidak Ada,Lengkap,,SMP,Tidak Layak,Tidak Memadai,Gizi Normal
+9.0,Perempuan,10.6,46.2,2.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.62,SMA,Layak,Memadai,Gizi Normal
+36.0,Laki-laki,13.5,52.5,3.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,,3.59,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+119.0,Laki-laki,12.7,77.6,2.0,Rendah,1 Kali,Ya,Tidak Ada,Tidak Lengkap,3.17,SMA,Tidak Layak,Memadai,Gizi Tidak Normal
+47.0,Laki-laki,11.7,,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.63,SD,Layak,Memadai,Gizi Tidak Normal
+50.0,Laki-laki,,53.5,4.0,Rendah,Jarang,Tidak,Tidak Ada,Lengkap,2.96,SMA,Tidak Layak,Memadai,Gizi Normal
+52.0,Perempuan,10.4,59.5,4.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.18,SMA,Tidak Layak,Memadai,Gizi Normal
+8.0,Laki-laki,14.3,56.5,3.0,Cukup,1 Kali,Tidak Berlaku,Ada,Lengkap,3.28,SMA,Layak,Memadai,Gizi Normal
+27.0,Laki-laki,10.9,51.7,3.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.52,SMP,Layak,Memadai,Gizi Normal
+43.0,Perempuan,8.5,74.1,3.0,Rendah,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.55,SMP,Tidak Layak,Memadai,Gizi Tidak Normal
+29.0,Perempuan,10.5,52.6,4.0,Cukup,1 Kali,Tidak Berlaku,,Lengkap,3.67,SMP,Layak,Memadai,Gizi Normal
+55.0,Laki-laki,6.1,51.4,3.0,Cukup,Jarang,Ya,Ada,Lengkap,3.44,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+36.0,Perempuan,13.2,81.8,4.0,Cukup,Jarang,Tidak,Tidak Ada,Lengkap,3.71,SMP,Layak,Memadai,Gizi Normal
+15.0,Laki-laki,11.6,56.0,2.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,3.66,SMA,Layak,Tidak Memadai,Gizi Normal
+48.0,Laki-laki,9.4,78.9,4.0,Cukup,Jarang,Tidak Berlaku,Ada,Lengkap,3.31,SD,Layak,Memadai,Gizi Tidak Normal
+10.0,Perempuan,8.8,67.5,,Tinggi,2 Kali atau lebih,Tidak,Ada,Tidak Lengkap,3.11,SMP,Layak,Memadai,Gizi Normal
+44.0,Laki-laki,16.0,71.6,4.0,Rendah,1 Kali,Tidak,Tidak Ada,Lengkap,2.44,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+14.0,Laki-laki,7.8,60.0,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,2.35,SMA,Layak,Memadai,Gizi Normal
+8.0,Perempuan,9.4,61.5,5.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.18,SD,Layak,Memadai,Gizi Normal
+49.0,Laki-laki,11.1,68.0,3.0,Cukup,2 Kali atau lebih,Ya,Tidak Ada,Tidak Lengkap,3.26,SD,Layak,Memadai,Gizi Tidak Normal
+55.0,Laki-laki,13.6,71.2,3.0,Cukup,,Ya,Tidak Ada,Lengkap,3.5,SD,Layak,Memadai,Gizi Normal
+11.0,Perempuan,6.1,69.6,3.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.51,SMP,Layak,Memadai,Gizi Tidak Normal
+7.0,Laki-laki,11.3,71.0,4.0,Tinggi,Jarang,Tidak,Tidak Ada,Tidak Lengkap,3.2,SMP,Layak,Memadai,Gizi Normal
+21.0,Perempuan,11.1,71.1,,Cukup,Jarang,Ya,Tidak Ada,Lengkap,3.41,SD,Layak,Memadai,Gizi Normal
+17.0,Laki-laki,9.8,55.9,3.0,Tinggi,1 Kali,Tidak Berlaku,Tidak Ada,Tidak Lengkap,2.79,SD,Layak,Memadai,Gizi Normal
+37.0,Perempuan,17.0,59.6,4.0,,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,3.33,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+33.0,Laki-laki,7.8,68.0,2.0,Rendah,Jarang,Tidak,Tidak Ada,Tidak Lengkap,3.85,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+46.0,Laki-laki,12.3,,4.0,Rendah,Jarang,Ya,Ada,Lengkap,2.72,SD,Layak,Memadai,Gizi Tidak Normal
+8.0,Perempuan,13.4,55.6,3.0,Cukup,1 Kali,Tidak,Ada,Lengkap,3.51,SD,Layak,Memadai,Gizi Normal
+46.0,Laki-laki,14.6,72.4,2.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Tidak Lengkap,3.34,SMP,Tidak Layak,Memadai,Gizi Normal
+23.0,Laki-laki,12.3,78.4,3.0,Rendah,1 Kali,Tidak,Ada,Lengkap,3.47,SMA,Layak,Tidak Memadai,Gizi Normal
+50.0,Perempuan,5.8,67.4,3.0,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.33,SMP,Layak,Tidak Memadai,Gizi Tidak Normal
+19.0,Perempuan,3.3,74.2,4.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,1.54,SMP,Layak,Memadai,Gizi Tidak Normal
+6.0,Perempuan,15.2,66.9,3.0,Rendah,,Tidak,Tidak Ada,Lengkap,3.17,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+34.0,Perempuan,9.2,63.5,4.0,Cukup,Jarang,Tidak,Ada,Tidak Lengkap,4.1,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+40.0,Laki-laki,12.0,76.0,4.0,Tinggi,2 Kali atau lebih,Ya,Ada,Lengkap,2.45,SMP,Layak,Tidak Memadai,Gizi Tidak Normal
+44.0,Perempuan,12.6,82.8,4.0,Tinggi,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.18,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+51.0,Perempuan,14.9,85.6,4.0,Tinggi,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.27,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+40.0,Laki-laki,15.2,65.1,2.0,Tinggi,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,3.49,,Layak,Memadai,Gizi Normal
+36.0,Laki-laki,13.6,79.6,2.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,2.77,SMA,Layak,Memadai,Gizi Normal
+17.0,Perempuan,11.6,60.4,4.0,Cukup,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.01,SMA,Layak,Memadai,Gizi Normal
+58.0,Laki-laki,13.6,58.6,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.92,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+48.0,Perempuan,13.9,60.0,3.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,3.97,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+23.0,Perempuan,12.2,48.2,3.0,Cukup,2 Kali atau lebih,Tidak,Tidak Ada,Lengkap,2.32,SMA,Layak,Memadai,Gizi Normal
+6.0,Laki-laki,5.4,73.9,4.0,Cukup,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,2.69,SMP,Tidak Layak,Memadai,Gizi Tidak Normal
+53.0,Laki-laki,10.1,53.3,,Rendah,1 Kali,Tidak Berlaku,Tidak Ada,Lengkap,3.8,SMA,Layak,Memadai,Gizi Tidak Normal
+49.0,Laki-laki,10.2,64.6,4.0,Cukup,2 Kali atau lebih,Tidak,Ada,Lengkap,2.57,SMP,Layak,,Gizi Normal
+49.0,Laki-laki,7.2,,3.0,Rendah,2 Kali atau lebih,Tidak Berlaku,Ada,Tidak Lengkap,3.03,SMP,Layak,Tidak Memadai,Gizi Tidak Normal
+29.0,Laki-laki,12.7,68.2,4.0,Tinggi,2 Kali atau lebih,Ya,Tidak Ada,Lengkap,2.73,Perguruan Tinggi,Tidak Layak,Memadai,Gizi Normal
+,Laki-laki,16.8,57.8,4.0,Tinggi,1 Kali,Ya,Tidak Ada,Lengkap,3.75,SMP,Layak,Memadai,Gizi Normal
+46.0,Perempuan,7.2,53.5,,Cukup,1 Kali,,Ada,Lengkap,2.78,SMA,Layak,Memadai,Gizi Tidak Normal
+47.0,Laki-laki,15.9,66.8,5.0,Rendah,Jarang,Ya,Tidak Ada,Lengkap,3.48,SMP,Layak,Memadai,Gizi Normal
+50.0,Perempuan,9.5,69.7,,,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.23,SD,Layak,Memadai,Gizi Tidak Normal
+37.0,Laki-laki,8.6,54.8,,Cukup,2 Kali atau lebih,Ya,Ada,Lengkap,2.86,SMP,Layak,Memadai,Gizi Normal
+36.0,Perempuan,16.0,71.3,2.0,Cukup,2 Kali atau lebih,Ya,Ada,Lengkap,,SMA,Layak,Memadai,Gizi Normal
+52.0,Perempuan,7.2,61.7,3.0,Cukup,Jarang,Ya,Ada,Lengkap,3.62,SMA,Tidak Layak,Memadai,Gizi Normal
+35.0,Perempuan,12.7,59.3,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.76,SMP,Layak,Memadai,Gizi Normal
+26.0,Perempuan,8.0,81.3,4.0,Cukup,1 Kali,Ya,Ada,Lengkap,2.62,Perguruan Tinggi,Layak,Memadai,Gizi Tidak Normal
+8.0,Laki-laki,12.6,47.8,2.0,Rendah,1 Kali,Ya,Tidak Ada,,3.14,SMA,Layak,Memadai,Gizi Normal
+58.0,Laki-laki,12.2,50.2,4.0,Cukup,Jarang,Ya,Ada,Lengkap,3.0,,Layak,Memadai,Gizi Normal
+29.0,Laki-laki,13.4,74.8,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,1.66,Perguruan Tinggi,Layak,Memadai,Gizi Normal
+13.0,Perempuan,13.1,66.1,4.0,Cukup,1 Kali,Tidak,Tidak Ada,Lengkap,2.23,SD,Layak,Memadai,Gizi Normal
+50.0,Perempuan,13.1,60.6,3.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.91,SMP,Layak,Memadai,Gizi Tidak Normal
+28.0,Laki-laki,12.1,64.9,3.0,Cukup,2 Kali atau lebih,Tidak,Ada,,2.54,SMA,Layak,Memadai,Gizi Normal
+42.0,Laki-laki,8.3,59.4,5.0,Rendah,Jarang,Tidak Berlaku,Tidak Ada,Lengkap,3.09,Perguruan Tinggi,Layak,Tidak Memadai,Gizi Normal
+56.0,Perempuan,15.9,51.2,3.0,Cukup,2 Kali atau lebih,Tidak Berlaku,Tidak Ada,Lengkap,3.29,SMP,Layak,Memadai,Gizi Normal
